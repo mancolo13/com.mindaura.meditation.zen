@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.mindaura.meditation.zen
 
 import io.flutter.embedding.android.FlutterActivity
 
